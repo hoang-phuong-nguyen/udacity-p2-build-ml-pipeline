@@ -1,5 +1,5 @@
 main:
-  components_repository: "https://github.com/phuongnh10/build-ml-pipeline-for-short-term-rental-prices#components"
+  components_repository: "https://github.com/hoang-phuong-nguyen/udacity-p2-build-ml-pipeline#components"
   # All the intermediate files will be copied to this directory at the end of the run.
   # Set this to null if you are running in prod
   project_name: nyc_airbnb
